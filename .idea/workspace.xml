@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="440e33fb-c6b3-4644-8bdb-d41524effeb3" name="Changes" comment="problem solving 2.2">
-      <change afterPath="$PROJECT_DIR$/src/chapterTwo/dataType/Pblm2.java" afterDir="false" />
+    <list default="true" id="440e33fb-c6b3-4644-8bdb-d41524effeb3" name="Changes" comment="calculate three angles">
+      <change afterPath="$PROJECT_DIR$/src/chapterTwo/dataType/Pblm3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapterTwo/dataType/Pblm4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapterTwo/dataType/Pblm1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/dataType/Pblm1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Pblm2">
+  <component name="RunManager" selected="Application.Pblm4">
     <configuration name="Pblm1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapterTwo.dataType.Pblm1" />
       <module name="programming-context" />
@@ -64,8 +64,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pblm3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapterTwo.dataType.Pblm3" />
+      <module name="programming-context" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapterTwo.dataType.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pblm4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapterTwo.dataType.Pblm4" />
+      <module name="programming-context" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapterTwo.dataType.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pblm4" />
+        <item itemvalue="Application.Pblm3" />
         <item itemvalue="Application.Pblm2" />
         <item itemvalue="Application.Pblm1" />
       </list>
@@ -79,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679101765736</updated>
-      <workItem from="1679101767616" duration="6531000" />
+      <workItem from="1679101767616" duration="7971000" />
     </task>
     <task id="LOCAL-00001" summary="problem solving 2.2">
       <created>1679102623855</created>
@@ -95,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679102762711</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="calculate three angles">
+      <created>1679111482836</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679111482836</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,7 +149,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="problem solving 2.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem solving 2.2" />
+    <MESSAGE value="calculate three angles" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculate three angles" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
